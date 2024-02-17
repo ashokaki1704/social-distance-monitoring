@@ -1,4 +1,4 @@
-ertainly! Here’s a concise GitHub repository description for your Social Distance Monitoring System Project using Python and machine learning:
+certainly! Here’s a concise GitHub repository description for your Social Distance Monitoring System Project using Python and machine learning:
 
 Social Distance Monitor: Detecting Violations and Ensuring Safe Distancing
 
